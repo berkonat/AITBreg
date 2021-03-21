@@ -1,0 +1,6 @@
+name = "AITBreg"
+uuid = "ec7d80bb-0406-4476-82ea-59e600a3d9b1"
+repo = "https://github.com/berkonat/AITBreg.git"
+description = "Julia registry for AITB and its dependent packages."
+
+[packages]
