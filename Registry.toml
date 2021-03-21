@@ -4,3 +4,4 @@ repo = "https://github.com/berkonat/AITBreg.git"
 description = "Julia registry for AITB and its dependent packages."
 
 [packages]
+3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a = { name = "ACE", path = "A/ACE" }
